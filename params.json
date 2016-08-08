@@ -1,0 +1,6 @@
+{
+  "name": "Web Worker Demo",
+  "tagline": "Web Worker Demo Showcase",
+  "body": "# Web Worker Demo\r\n\r\nThis is a simple web worker demo used to show the effect of blocking UI without web worker and non-blocking UI with web workers.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
